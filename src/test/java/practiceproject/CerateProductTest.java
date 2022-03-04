@@ -8,6 +8,7 @@ public class CerateProductTest {
 
 public void createProduct() {
 	System.out.println("First project");
+	System.out.println("first commit ");
 }
 
 
